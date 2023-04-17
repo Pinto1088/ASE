@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/CMakeFiles/bootloader
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/CMakeFiles/bootloader.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/CMakeFiles/bootloader-complete.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/pinto/Documents/Universidade/Semestre2/ASE/EasterTPC/Easter/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
